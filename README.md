@@ -2,6 +2,10 @@
 Growtopia Captcha Solver API.<br>
 100% Solve rate.
 
+### View result
+Here the folder with solve result, the folder will be auto updated every new solve from the API, so you can view them in real time. <br>
+http://45.58.56.107/result/
+
 ### Free server
 There no guarantee free server will not down or full.<br>
 `http://45.58.56.107:1945/gt/captcha?id=`*captchaID*
