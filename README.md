@@ -3,7 +3,7 @@ Growtopia Captcha Solver API.<br>
 100% Solve rate.
 
 ### Free server
-There no guarantee free server will not down or full.
+There no guarantee free server will not down or full.<br>
 `http://45.58.56.107:1945/gt/captcha?id=`*captchaID*
 
 ### Premium Server
