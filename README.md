@@ -14,6 +14,7 @@ There no guarantee free server will not down or full.<br>
 5950X + 128gb ram | 0.2s api return result<br>
 1 DL for 750 requests<br>
 25 DL for 20k requests<br>
+Can be negotiate for larger quantity.<br>
 Refund policy available for unsolvable requests (read below)<br>
 
 ### Contact
