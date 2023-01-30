@@ -11,7 +11,9 @@ There no guarantee free server will not down or full.<br>
 `http://45.58.56.107:1945/gt/captcha?id=`*captchaID*
 
 ### Premium Server
-5950X + 128gb ram | 0.2s api return result<br>
+5950X + 128gb ram | 0.2s api return result.<br>
+Free access to premium server for 1000 requests once you starred this repo, contact me to claim.<br>
+
 1 DL for 750 requests<br>
 25 DL for 20k requests<br>
 Can be negotiate for larger quantity.<br>
