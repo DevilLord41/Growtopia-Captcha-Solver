@@ -4,13 +4,13 @@ Growtopia Captcha Solver API.<br>
 
 ### View result
 Here the folder with solve result, the folder will be auto updated every new solve from the API, so you can view them in real time. <br>
-http://45.58.56.107/result/
-http://45.58.56.46/result/
+http://45.58.56.107/result/<br>
+<b>NEW!</b> http://45.58.56.46/result/
 
 ### Free server
 There no guarantee free server will not down or full.<br>
-`http://45.58.56.107:1945/gt/captcha?id=`*captchaID*
-`http://45.58.56.46:1945/gt/captcha?id=`*captchaID*
+`http://45.58.56.107:1945/gt/captcha?id=`*captchaID*<br>
+<b>NEW!</b> `http://45.58.56.46:1945/gt/captcha?id=`*captchaID*
 
 ### Premium Server
 5950X + 128gb ram | 0.2s api return result.<br>
