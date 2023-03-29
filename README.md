@@ -1,6 +1,7 @@
 # Growtopia-Captcha-Solver
 Growtopia Captcha Solver API.<br>
-100% Solve rate.
+100% Solve rate.<br>
+https://discord.gg/fpRtg5s54u
 
 ### View result
 Here the folder with solve result, the folder will be auto updated every new solve from the API, so you can view them in real time. <br>
@@ -23,7 +24,9 @@ Refund policy available for unsolvable requests (read below)<br>
 
 ### Contact
  - Discord: Darius#2000
+ - Discord Server: https://discord.gg/fpRtg5s54u
  - E-mail: redeagledeveloper1@gmail.com
+ 
 
 ### Refund Policy
   - Captcha ID should be provided
